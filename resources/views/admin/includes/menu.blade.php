@@ -82,7 +82,7 @@
     </li>
 
     <!-- Nav Item - Utilities Collapse Menu -->
-    <li class="nav-item">
+    {{--  <li class="nav-item">
       <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseUtilities" aria-expanded="true" aria-controls="collapseUtilities">
         <i class="fas fa-fw fa-wrench"></i>
         <span>Utilities</span>
@@ -96,9 +96,9 @@
           <a class="collapse-item" href="utilities-other.html">Other</a>
         </div>
       </div>
-    </li>
+    </li>  --}}
 
-    <!-- Divider -->
+    {{--  <!-- Divider -->
     <hr class="sidebar-divider">
 
     <!-- Heading -->
@@ -146,6 +146,6 @@
     <!-- Sidebar Toggler (Sidebar) -->
     <div class="text-center d-none d-md-inline">
       <button class="rounded-circle border-0" id="sidebarToggle"></button>
-    </div>
+    </div>  --}}
 
   </ul>

@@ -13,35 +13,35 @@
               <div class="carousel-item active " style="background-color: #E5E5E5 !important; color: black !important;">
                 <div class="row align-items-center">
                     <div class="col-md-12">
-                        <img src="{{asset('/')}}front/assets/img/slide/1.png" style="height:500px !important; width:100% !important; background-color:#E5E5E5 " alt="">
+                        <img src="{{asset('/')}}front/assets/img/slide/1.png" style="height:auto !important; width:100% !important; background-color:#E5E5E5 " alt="">
                     </div>
                 </div>
               </div>
               <div class="carousel-item">
                 <div class="row align-items-center">
                     <div class="col-md-12">
-                        <img src="{{asset('/')}}front/assets/img/slide/2.png" style="height:500px !important; width:100% !important " alt="">
+                        <img src="{{asset('/')}}front/assets/img/slide/2.png" style="height:auto !important; width:100% !important " alt="">
                     </div>
                 </div>
               </div>
               <div class="carousel-item">
                     <div class="row align-items-center">
                         <div class="col-md-12">
-                            <img src="{{asset('/')}}front/assets/img/slide/3.png" style="height:500px !important; width:100% !important " alt="">
+                            <img src="{{asset('/')}}front/assets/img/slide/3.png" style="height:auto !important; width:100% !important " alt="">
                         </div>
                     </div>
               </div>
               <div class="carousel-item">
                     <div class="row align-items-center">
                         <div class="col-md-12">
-                            <img src="{{asset('/')}}front/assets/img/slide/4.png" style="height:500px !important; width:100% !important " alt="">
+                            <img src="{{asset('/')}}front/assets/img/slide/4.png" style="height:auto !important; width:100% !important " alt="">
                         </div>
                     </div>
               </div>
               <div class="carousel-item">
                     <div class="row align-items-center">
                         <div class="col-md-12">
-                            <img src="{{asset('/')}}front/assets/img/slide/5.png" style="height:500px !important; width:100% !important " alt="">
+                            <img src="{{asset('/')}}front/assets/img/slide/5.png" style="height:auto !important; width:100% !important " alt="">
                         </div>
                     </div>
               </div>
